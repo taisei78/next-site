@@ -6,6 +6,7 @@ export default function Home() {
   return (
     <>
     <p>あああああ</p>
+    <h1>いいいい</h1>
     </>
   )
 }
